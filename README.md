@@ -1,6 +1,8 @@
 # instacart-webscraper
 This program is a webscraper created to gather data for a consulting challenge with Instacart, a grocery delivery and pickup service. My team's goal was to improve the shopping experience for Instacart customers.
 
+![A bar graph showing the frequency of reviews that apply to each category.](plot.jpg)
+
 Our Webscraper is a Python program that scraped over 5000 one-star reviews from [Trustpilot](https://ca.trustpilot.com/review/instacart.com?stars=1) and [Sitejabber](https://www.sitejabber.com/reviews/instacart.com#reviews). We only analyzed one-star reviews because our intent was to determine the main problems customer's have with the Instacart.
 
 Our program classifies the reviews into appropriate categories. After our preliminary research, we determined seven core issues that we wanted to look for in our reviews:
